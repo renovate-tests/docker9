@@ -1,2 +1,2 @@
-FROM weaveworks/weave:2.4.0
+FROM weaveworks/weave:2.5.1
 RUN something
